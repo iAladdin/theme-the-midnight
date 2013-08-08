@@ -1,0 +1,10 @@
+---
+name : midnight
+website :  http://layouts-the.me.s3-website-us-east-1.amazonaws.com/themes/the-program/
+description :  "Migration a github pages theme midnight to Jekyll-Bootstrap."
+git_url : git@github.com:iAladdin/theme-the-midnight.git
+source_url : https://github.com/iAladdin/theme-the-midnight
+author:
+  name : iAladdin
+  email : ialaddin@me.com
+  website : http://ialaddin.github.io/
